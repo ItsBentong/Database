@@ -1,0 +1,15 @@
+D:\tambis2blotterreport\tambis2blotterreport\bin\Debug\tambis2blotterreport.exe.config
+D:\tambis2blotterreport\tambis2blotterreport\bin\Debug\tambis2blotterreport.exe
+D:\tambis2blotterreport\tambis2blotterreport\bin\Debug\tambis2blotterreport.pdb
+D:\tambis2blotterreport\tambis2blotterreport\obj\Debug\tambis2blotterreport.Properties.Resources.resources
+D:\tambis2blotterreport\tambis2blotterreport\obj\Debug\tambis2blotterreport.csproj.GenerateResource.Cache
+D:\tambis2blotterreport\tambis2blotterreport\obj\Debug\tambis2blotterreport.exe
+D:\tambis2blotterreport\tambis2blotterreport\obj\Debug\tambis2blotterreport.pdb
+D:\tambis2blotterreport\tambis2blotterreport\obj\Debug\tambis2blotterreport.complainant.resources
+D:\tambis2blotterreport\tambis2blotterreport\obj\Debug\tambis2blotterreport.complainantrecord.resources
+D:\tambis2blotterreport\tambis2blotterreport\obj\Debug\tambis2blotterreport.HOME.resources
+D:\tambis2blotterreport\tambis2blotterreport\obj\Debug\tambis2blotterreport.lagin.resources
+D:\tambis2blotterreport\tambis2blotterreport\obj\Debug\tambis2blotterreport.csproj.AssemblyReference.cache
+D:\tambis2blotterreport\tambis2blotterreport\obj\Debug\tambis2blotterreport.csproj.CoreCompileInputs.cache
+D:\tambis2blotterreport\tambis2blotterreport\obj\Debug\tambis2blotterreport.csproj.CopyComplete
+D:\tambis2blotterreport\tambis2blotterreport\obj\Debug\tambis2blotterreport.csproj.SuggestedBindingRedirects.cache
